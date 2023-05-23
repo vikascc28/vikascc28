@@ -13,9 +13,6 @@
 ![](https://github-readme-stats.vercel.app/api?username=vikascc28&theme=shades-of-purple&hide_border=false&include_all_commits=true&count_private=true)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=vikascc28&theme=shades-of-purple&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=vikascc28&theme=shades-of-purple&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
-
-## 🐦 Latest Tweet
-[![](https://gtce.itsvg.in/api?username=vikascc28)](https://github.com/VishwaGauravIn/github-twitter-card-embed)
   
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=vikascc28&theme=juicyfresh&no-frame=false&no-bg=true&margin-w=4)
