@@ -1,5 +1,8 @@
 <div align="left">
-# 💫 About Me
+
+### Hi there!👋 Welcome to my GitHub account.
+  
+## 💫 About Me
   
 🔭 I’m currently working on Responsive Webpages<br>👯 I’m looking to collaborate with open-source contributors<br>🤝 I’m looking for help with my personal projects on Web Development<br>🌱 I’m currently learning Javascript<br>💬 Ask me about Computer Science
 
