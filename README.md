@@ -1,6 +1,6 @@
 <div align="left">
 
-### Hi there!👋 Welcome to my GitHub account.
+## Hi there!👋 Welcome to my GitHub account.
   
 ## 💫 About Me
   
