@@ -25,12 +25,9 @@
 
 ### 🧑‍💻 About Me
 
-- 🔭 I’m currently working on **React Projects**
-- 🌱 I’m currently learning **Next.js**
-- 💬 Ask me about **React, Vue, and GSAP**
+- 🔭 I’m currently working on **NextJs Projects**
+- 💬 Ask me about **React, TypeScript, NextJs**
 - 🔍 Just Google **[vikascc28](https://www.google.com/search?q=vikascc28)** to find me across the web
-- 📫 Reach me at: **vikascc28@gmail.com**
-- ⚡ Fun fact: **I think I’m funny 😄**
 
 ---
 
@@ -40,9 +37,8 @@
   <a href="https://twitter.com/vikascc28"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" height="30" width="40" /></a>
   <a href="https://linkedin.com/in/vikascc28"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="30" width="40" /></a>
   <a href="https://kaggle.com/vikascc28"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" height="30" width="40" /></a>
-  <a href="https://fb.com/vikascc28"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" height="30" width="40" /></a>
-  <a href="https://instagram.com/vikascc28"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" height="30" width="40" /></a>
-  <a href="https://www.codechef.com/users/vikascc28"><img src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" height="30" width="40" /></a>
+  <a href="https://www.codechef.com/users/vikascc28"><img src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" height="30" width="40" />
+</a>
   <a href="https://www.hackerrank.com/vikascc28"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" height="30" width="40" /></a>
   <a href="https://codeforces.com/profile/vikascc28"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" height="30" width="40" /></a>
   <a href="https://www.leetcode.com/vikascc28"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" height="30" width="40" /></a>
@@ -50,6 +46,17 @@
 </p>
 
 ---
+
+<div align="center"> 
+<h2 align="center">Leetcode Info<h2>  
+<p align="center">
+  <a href="https://leetcode.com/vikascc28/" target="_blank"><img align="center" src="https://leetcode.com/static/images/badges/2025/gif/2025-01.gif" alt="jyot" height="200" width="200" /></a>
+  <a href="https://leetcode.com/vikascc28/" target="_blank"><img align="center" src="https://leetcode.com/static/images/badges/2025/gif/2025-02.gif" alt="jyot" height="200" width="200" /></a>
+  <a href="https://leetcode.com/vikascc28/" target="_blank"><img align="center" src="https://leetcode.com/static/images/badges/2025/gif/2025-04.gif" alt="jyot" height="200" width="200" /></a>
+  <br>
+  <a href="https://leetcode.com/vikascc28/" target="_blank"><img align="center" src="https://assets.leetcode.com/static_assets/others/lg2550.png" alt="jyot" height="200" width="200" /></a>
+  <a href="https://leetcode.com/vikascc28/" target="_blank"><img align="center" src="https://assets.leetcode.com/static_assets/others/lg25100.png" alt="jyot" height="200" width="200" /></a>  
+</p>
 
 ### 🛠️ Languages and Tools
 
